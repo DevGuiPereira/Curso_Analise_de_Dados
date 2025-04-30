@@ -5,11 +5,10 @@ Este projeto foi criado como parte do meu aprendizado no curso de **Análise de 
 ## 📂 Estrutura de Arquivos
 
 ```
-📁 calculadora-projeto/
+📁 calculator/
 ├── calculator.py         # Lógica da calculadora em Python
 ├── calculator.sh         # Script Bash que dá boas-vindas e executa o programa Python
-├── comandos.txt          # Arquivo com comandos úteis para execução
-└── README.md             # Documentação do projeto
+└── comandos.txt          # Arquivo com comandos úteis para execução
 ```
 
 ## ▶️ Como Executar
