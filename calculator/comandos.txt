@@ -1,0 +1,8 @@
+comando para alterar as permissões:
+	chmod 755 calculator.sh
+	chmod 755 calculator.py
+
+comando para executar o programa calculator.sh:
+	./calculator.sh
+
+
